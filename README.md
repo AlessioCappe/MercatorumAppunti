@@ -10,4 +10,5 @@ I vari link che ho aggiunto negli appunti (e spesso anche quelli nelle dispense)
 - [Xournal++](https://xournalpp.github.io/) - https://xournalpp.github.io/ 
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - https://github.com/pdfarranger/pdfarranger
 - [MercatorumPdfCleaner](https://github.com/AlessioCappe/MercatorumPdfCleaner) - https://github.com/AlessioCappe/MercatorumPdfCleaner
+- [Template Appunti Writer](https://github.com/akbarahmed/libreoffice-writer-template) - https://github.com/akbarahmed/libreoffice-writer-template
 
