@@ -1,2 +1,2 @@
 # Diritto commerciale delle imprese digitali #
-ATTENZIONE! NON sono stati presi appunti dalla lezione 47 alla 53
+Gli appunti sono completi, il riassunto è parziale e da revisionare per eventuali errori.
